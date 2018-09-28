@@ -1,0 +1,4 @@
+create_namespace 'my_ns'
+
+create 'my_ns:my_table', 'fam1'
+
